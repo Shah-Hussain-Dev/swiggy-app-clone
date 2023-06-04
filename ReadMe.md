@@ -8,6 +8,10 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open Android Emulator to run this project.
 
+<div  align="center"  id="top">
+<img  src="./swiggyapp.png"  alt="Pvr Clone" />
+</div>
+
 ## Dependency Code:
 
 ViewPropTypes will be removed from React Native. Migrate to ViewPropTypes exported from 'deprecated-react-native-proptypes
